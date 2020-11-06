@@ -1,0 +1,10 @@
+.idea/
+
+node_modules/
+uploads/
+venv/
+venv38/
+
+*.~sql
+*.log
+database.sqlite
